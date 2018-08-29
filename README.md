@@ -1,7 +1,7 @@
 # Review for GRE Physics
 I will take GRE Physics examination on October 21st, 2018. So I have decided to review the whole lessons I took during the past three years by writing the summary of different parts in Markdown or LaTeX.
 ***
-## Includes
+## Include
 - Classical Mechanics
 - Electromagnetism
 - Optics and Wave Phenomena
